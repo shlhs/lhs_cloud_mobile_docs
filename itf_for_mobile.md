@@ -37,7 +37,7 @@ http://114.215.90.83:8093/v1/logout
 
 
 5、获取某个变量组其变量的统计值，即某个时间段的所有值。
-/vargroups/{id}/VarRealtimeDatas  GET
+/vargroups/{id}/VarStatisticalDatas  GET
 
 
 6、获取该用户下，所有相关的事件信息（用户所有相关站点的所有事件信息）
